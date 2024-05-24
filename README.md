@@ -8,6 +8,7 @@ Kết quả: Thành công
 Chi tiết:
 
 Mã trạng thái phản hồi: 200 (Thành công)
+
 Dữ liệu phản hồi:
 -Bao gồm các trường bắt buộc: userId, id, title, body
 
@@ -16,6 +17,7 @@ Dữ liệu phản hồi:
 -Loại nội dung: application/json
 
 -Thời gian phản hồi: Dưới 300ms
+
 Kết luận:
 
 Collection Postman đã thành công trong việc truy xuất dữ liệu từ API https://jsonplaceholder.typicode.com/posts. Tất cả các bài kiểm tra đều được thực hiện thành công.
